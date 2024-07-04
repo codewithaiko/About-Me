@@ -11,7 +11,6 @@ I'm an aspiring developer with a strong interest in Python and Artificial Intell
 
 - **Machine Learning:** Diving into foundational concepts and hands-on projects.
 - **Web Development:** Building my first web pages and learning how to create interactive user experiences.
-- **DevOps Practices:** Getting familiar with CI/CD pipelines and cloud deployment to streamline development.
 
 ## 💬 Ask Me About
 
