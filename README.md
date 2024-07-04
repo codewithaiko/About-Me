@@ -1,5 +1,4 @@
-# 👋 Hello! I'm [Your Name]
-
+# 👋 Hello! I'm Aiko
 I'm an aspiring developer with a strong interest in Python and Artificial Intelligence. I'm passionate about learning and growing in the world of programming. Here's a bit about me:
 
 ## 🔭 What I’m Working On
